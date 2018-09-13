@@ -106,14 +106,11 @@ export default class extends React.Component<IndexPageProps, {after: number}> {
           </p>
 
           <p>
-            <strong>Michael Lai</strong> is an Entrepreneur-in-Residence working on
-            improving childcare, is building an innovation studio for early childhood
-            development focusing on low-income populations, and has five years of
-            experience volunteering at local schools. Before that he was the youngest
-            director at the Minerva Project, worked on education initiatives at
-            Google.org, competed on Harvard's Varsity Golf team, and organized
-            hip-hop flash mobs. If he's not working or dancing, he's probably
-            reading. <a href="http://mtclai.com/">Homepage</a>.
+            <strong>Michael Lai</strong> is a techy-fuzzy passionate about innovation in early childhood development. He's currently an Entrepreneur-in-Residence 
+            exploring startup ideas to improve childcare, building an innovation studio for early childhood
+            development focused on low-income populations, and volunteer teaching preschool. Before that, he helped build a university from the ground up at Minerva Project, worked at
+            Google.org, and taught 4th, 5th and 8th graders while studying at Harvard. He's never seen a dance floor he doesn't like (occassionally, he starts <a href="http://mtclai.com/organizing">them</a>) and loves touchy feely conversations. If he's not working or <a href="http://mtclai.com/organizing">meditating</a>, he's probably
+            curled up with a book (bit.ly/michaelreads). <a href="http://mtclai.com/">Homepage</a>.
           </p>
 
           <p>
